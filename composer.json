@@ -1,0 +1,16 @@
+{
+    "name": "serhiiprystapchuk/cms",
+    "authors": [
+        {
+            "name": "prystapchuk-dev",
+            "email": "85236924+prystapchuk-dev@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
