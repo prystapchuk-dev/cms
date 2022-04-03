@@ -1,7 +1,7 @@
 <?php
 namespace Engine\Service\Router;
 use Engine\Service\AbstractProvider;
-use engine\Core\Router\Router;
+use Engine\Core\Router\Router;
 
 class Provider extends AbstractProvider
 {

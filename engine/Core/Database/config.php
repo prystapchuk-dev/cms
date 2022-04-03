@@ -3,6 +3,6 @@ return [
     'host' => 'localhost',
     'db_name' => 'cms',
     'username' => 'root',
-    'password' => '',
+    'password' => 'root',
     'charset' => 'utf8'
 ];
